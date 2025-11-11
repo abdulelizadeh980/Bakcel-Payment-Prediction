@@ -7,7 +7,7 @@ The entire analysis was conducted in **IBM SPSS Modeler (Clementine)** following
 
 ## 🧠 Project Overview
 
-![SPSS Project Stream](./project_stream.png)
+![SPSS Bakcell].(SPSS_Bakcell.png)
 
 **Dataset:** `Ecmp_Crdt_Scr_BA.xls`  
 **Created On:** 01.03.2018  
